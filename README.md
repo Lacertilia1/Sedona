@@ -8,7 +8,7 @@ Sedona is an entry-level [@htmlacademy] layout.
 
 |  Property  | Value               |
 | ------------- |:------------------:|
-| Difficulty    | <img height="70" alt="HTML Academy" src="images/black.jpg">    |
+| # Difficulty    | <img height="70" alt="HTML Academy" src="images/black.jpg">    |
 | Preprocessor     | <img height="70" alt="HTML Academy" src="images/less.png"> |
 | Automation  | Gulp         |
 
