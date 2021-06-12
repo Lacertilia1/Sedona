@@ -8,6 +8,7 @@ Sedona is an entry-level [@htmlacademy] layout.
 
 # Preview :eyeglasses:
 
+
 ```
 Index.html - main page of the website
 ```
