@@ -15,7 +15,6 @@ Index.html - main page of the website
 
 ![Иллюстрация к проекту](images/index.jpg)
 
-
 ---
 
 ```
