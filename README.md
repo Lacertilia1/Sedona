@@ -98,10 +98,6 @@ Click on the logo to open layout in [Figma](https://www.figma.com/file/ASeQqd0fG
 ---
 
 <p align="center">
-  <img width="800" height="140" alt="Instagram layout" src="images/sunglasses.png">
-</p>
-
-<p align="center">
   <img width="800" height="140" alt="Instagram layout" src="images/achieve.png">
 </p>
 
